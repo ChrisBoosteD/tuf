@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='tuf',
-    version='0.0.1',
+    version='0.1.0',
     description='TUF code',
     url='git@github.com:ChrisBoosteD/tuf.git',
     author='Chris Woon',
